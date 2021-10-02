@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container{
+    width: 75vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    background-color: rgb(223, 255, 223);
+    flex-wrap: wrap;
+}
+.btn{
+    height: 2rem;
+    width: 10rem;
+    margin: 0.5rem;
+}
+.inp{
+    height: 2rem;
+    font-size: larger;
+    width: 15rem;
+    margin: 1rem;
+    padding: 5px;
+}
+.btns{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
